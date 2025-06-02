@@ -43,3 +43,4 @@ Install the dependencies with:
 
 ```bash
 pip install numpy pandas matplotlib seaborn plotly tensorflow scikit-learn nltk tqdm pillow
+ 
